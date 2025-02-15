@@ -98,7 +98,7 @@ All projects created in Snack are publicly available, so you can easily share th
 
 ### Need Help?
 
-If you're having issues:
+If you're having issues creating projects using Expo Snack:
 
 - Tweet [@expo](https://twitter.com/expo).
 - Ask in the [Expo forums](https://forums.expo.dev/c/expo-dev-tools/61).
